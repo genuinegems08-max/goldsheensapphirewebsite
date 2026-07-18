@@ -1,13 +1,4 @@
-# Pre-launch: blocking all crawling while contact details are placeholders.
-# When ready to launch, replace the block below with:
-#
-#   User-agent: *
-#   Allow: /
-#
-#   Sitemap: https://goldsheensapphire.net/sitemap.xml
-#
-# ...and remove the <meta name="robots" content="noindex, nofollow" />
-# line from the <head> of every page.
-
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://goldsheensapphire.net/sitemap.xml
