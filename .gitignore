@@ -1,0 +1,5 @@
+# Raw source material (original uploads, unedited archive) — not part of the published site
+websitecontent/
+
+# Local dev tooling (test server script, not needed for hosting)
+.claude/
